@@ -15,6 +15,9 @@ This repository contains **PYQs, notes, and lab files** for B.Tech CSE Semester 
 B.Tech-CSE-Sem-4-Notes (For Now)
 │
 ├── README.md
+├── Assignments
+    └── OOPs Assignment
+    └── DBMS Assignments
 └── PYQs
     └── 2026 Sem 4 Sessional 01.pdf
 ```
